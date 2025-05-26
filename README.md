@@ -7,7 +7,7 @@ A lightweight Python-based agent for collecting system security data and sending
 ## 🔧 Features
 
 -  Standalone or agent-mode execution
--  Sends JSON data to your Django backend via POST
+-  Sends JSON data to Django backend via POST
 -  Includes 7 core security checks:
   - Failed SSH login attempts
   - Open ports (via nmap)
